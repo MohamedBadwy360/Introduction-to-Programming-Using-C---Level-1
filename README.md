@@ -1,4 +1,4 @@
-# Introduction-to-Programming-Using-C---Level-1
+# Introduction-to-Programming-Using-C++-Level-1
 
 ![Programming Advices Logo](/Programming%20Advices.jpg)
 

@@ -10,3 +10,5 @@ The Course is about foundations of programming with C++.
 ---
 
 **Tools:** `Visual Studio`, `Visual Studio Code`.
+
+**Libraries:** `iostream`, `string`, `cmath`. 

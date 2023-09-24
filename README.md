@@ -9,4 +9,4 @@ The Course is about foundations of programming with C++.
 
 ---
 
-**Tools:** `Visual Studio`.
+**Tools:** `Visual Studio`, `Visual Studio Code`.

@@ -20,7 +20,7 @@ int main()
     array_y[1] = 5;
 
     cout << array_y[0] + array_y[1] << endl;
-    cout << array_y[3] << endl;
+    cout << array_y[3] << endl; // random number
  
     return 0;
 }
